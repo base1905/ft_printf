@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/intra-uuid-e65d9ba7-5f12-410f-a2fe-6cdc4a11fa0d-3251802"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__bit_reference": "c",
+			"algorithm": "c",
+			"bitset": "c",
+			"chrono": "c",
+			"unordered_map": "c",
+			"hashtable": "c",
+			"sstream": "c"
+		}
+	}
+}
